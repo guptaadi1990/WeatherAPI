@@ -1,0 +1,21 @@
+2019-08-18 18:32:06.6958 WeatherAPI.Helpers.NLogger JSON
+Method: GET
+URL: http://localhost:50825/api/WeatherData/
+Controller : WeatherAPI.Controllers.WeatherDataController
+Action : Get
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-08-18 18:35:39.7728 WeatherAPI.Helpers.NLogger JSON
+Method: GET
+URL: http://localhost:50825/api/WeatherData/
+Controller : WeatherAPI.Controllers.WeatherDataController
+Action : Get
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-08-18 18:35:40.1626 WeatherAPI.Helpers.NLogger JSON
+Method: GET
+URL: http://localhost:50825/api/WeatherData/
+Controller : WeatherAPI.Controllers.WeatherDataController
+Action : Get
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
